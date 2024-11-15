@@ -14,5 +14,7 @@ describe('AuthenticationService', () => {
 
   it('should be defined', () => {
     expect(service).toBeDefined();
+    console.log("test");
+    
   });
 });
